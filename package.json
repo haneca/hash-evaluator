@@ -1,0 +1,25 @@
+{
+  "name": "hash-evaluator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haneca/hash-evaluator.git"
+  },
+  "keywords": [
+    "node",
+    "data",
+    "generator"
+  ],
+  "author": "HANECA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haneca/hash-evaluator/issues"
+  },
+  "homepage": "https://github.com/haneca/hash-evaluator#readme"
+}
